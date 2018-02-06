@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("../images/swirl_pattern.png")
+}
+
+.float-left {
+    margin-right: 10px;
+}
+
+P {
+    padding:10px;
+    margin-left: 10px;
+    border: 10px;
+}
+
+footer {
+    position: fixed;
+    bottom: -160px;
+    text-align: center;
+    background-color: #666666;
+    height: 50px;
+    color: #eeeeee;
+    border-top-style: solid;
+    border-top-width: 8px;
+    border-top-color: #4aaaa5;
+    padding-top: 12px;
+    font-size: 11px;
+}
